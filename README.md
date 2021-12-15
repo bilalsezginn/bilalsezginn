@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @bilalsezginn
-- 👀 I’m interested in Java, Spring Boot, Thymeleaf etc.  
+- ✨ I'm a Fullstack Java Software Engineer
+- 👀 I’m interested in J2EE technologies, Spring MVC, Spring Boot, Hibernate, Thymeleaf etc.  
 - 🌱 I’m currently learning Angular 12
 
 
