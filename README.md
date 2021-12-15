@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bilalsezginn
-- 👀 I’m interested in J2EE, Spring Framework at backend and Angular 12, Bootstrap Framework at frontend 
+- 👀 I’m interested in Java, Spring Boot, Thymeleaf etc.  
 - 🌱 I’m currently learning Angular 12
 
 
