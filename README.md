@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bilalsezginn
-- ✨ I'm a Fullstack Java Software Engineer
-- 👀 I’m interested in J2EE technologies, Spring MVC, Spring Boot, Hibernate, Thymeleaf etc.  
-- 🌱 I’m currently learning Angular 12
+- ✨ I'm a Fullstack Software Engineer
+- 👀 I’m interested in J2EE technologies, Spring MVC, Spring Boot, React, NodeJS etc.  
+- 🌱 I’m currently working on Microservices.
 
 
 <!---
